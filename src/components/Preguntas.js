@@ -10,7 +10,7 @@ const Preguntas=()=>{
 			},
 			{
 				pregunta: '¿Qué me representa?',
-				desc: '',
+				desc: 'Para entender el presente y el fururo hay que entender el pasado.',
 				category: 'hobbies'
 			},
 			{
